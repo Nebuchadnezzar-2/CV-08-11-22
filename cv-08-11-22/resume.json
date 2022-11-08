@@ -1,0 +1,183 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "",
+    "projects": "",
+    "awards": "Certificates"
+  },
+  "basics": {
+    "name": "Nasir Ali",
+    "email": "a.nasirali@outlook.com",
+    "phone": "07944617240",
+    "website": "www.linkedin.com/in/ali-nasir-ali",
+    "location": {
+      "address": "Glasgow, UK"
+    }
+  },
+  "education": [
+    {
+      "institution": "Glasgow Clyde College",
+      "area": "",
+      "studyType": "SCQF Level-7",
+      "startDate": "Aug - 2022",
+      "endDate": "Nav - 2022",
+      "gpa": "",
+      "location": "Cardonold"
+    },
+    {
+      "institution": "Glasgow Clyde College",
+      "location": "Langside",
+      "startDate": "June - 2022",
+      "endDate": "Aug - 2022",
+      "studyType": "SCQF Level-6"
+    },
+    {
+      "institution": "University of Glasgow",
+      "studyType": "Access Science",
+      "startDate": "Sep - 2022",
+      "endDate": "April - 2023"
+    },
+    {
+      "institution": "Code Your Future",
+      "location": "Glasgow",
+      "startDate": "June - 2022",
+      "endDate": "May - 2023",
+      "studyType": "Computing Science"
+    }
+  ],
+  "work": [
+    {
+      "website": "",
+      "startDate": "May, 2014",
+      "endDate": "June, 2014",
+      "highlights": [
+        "Cash handling",
+        "Customer communication"
+      ],
+      "company": "Khalid Clearance",
+      "position": "Assistant ",
+      "location": "Maryhill Road"
+    },
+    {
+      "highlights": [
+        "Customer communication",
+        "Maintaining shop appearance"
+      ],
+      "location": "Newark Drive in Pollokshields",
+      "company": "Sense Scotland",
+      "position": "Assistant ",
+      "startDate": "Dec, 2014",
+      "endDate": "Jan, 2015"
+    },
+    {
+      "highlights": [
+        "Customer communication",
+        " Cash handling",
+        "General retail"
+      ],
+      "company": "Ali Baba’s",
+      "location": "Dumbarton Road",
+      "position": "Assistant ",
+      "startDate": "March, 2015",
+      "endDate": "June, 2015"
+    },
+    {
+      "highlights": [
+        "Customer communication",
+        "Cash handling"
+      ],
+      "company": "Aladdin’s cave",
+      "position": "Assistant ",
+      "location": "dinmont Rd, Shawlands",
+      "startDate": "June, 2017",
+      "endDate": "Dec, 2017"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Python",
+        "Java",
+        "C",
+        "BASIC",
+        "Javascript",
+        "SQL",
+        "HTML",
+        "CSS"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "Visual studio code",
+        "Git",
+        "Github",
+        "Linux",
+        "AWS",
+        "Google Cloud",
+        "Google Colab"
+      ],
+      "name": "Technologies used"
+    },
+    {
+      "keywords": [
+        "Anaconda",
+        "Wordpress",
+        "Docker"
+      ],
+      "name": ":"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal portfolio",
+      "description": "",
+      "keywords": [
+        null
+      ],
+      "url": "https://anasir514.github.io/Nasir_Ali/"
+    }
+  ],
+  "awards": [
+    {
+      "awarder": "Google",
+      "title": "Introduction to Git and GitHub",
+      "date": "Mar - 2021",
+      "summary": "https://coursera.org/share/13256f1dfd6926a1e415be9904ede362"
+    },
+    {
+      "title": "Web Application Technologies and Django ",
+      "date": "Feb - 2021",
+      "awarder": "University of Michigan ",
+      "summary": "https://coursera.org/share/2b55939a79e7e7ae4b07169818b99f64"
+    },
+    {
+      "title": "Crash Course on Python",
+      "date": "Jan - 2021",
+      "awarder": "Google",
+      "summary": "https://coursera.org/share/3b495287debba1a233cb95c273a168e4"
+    },
+    {
+      "title": "Programming for Everybody (Getting Started with Python) ",
+      "awarder": "University of Michigan ",
+      "date": "Jan - 2021",
+      "summary": "https://coursera.org/share/d8efd0cc7103cc0a91703e7d456c3417"
+    },
+    {
+      "title": "Automate the Boring Stuff with Python Programming",
+      "date": "Feb - 2021",
+      "awarder": "Udemy ",
+      "summary": "https://www.udemy.com/certificate/UC-aa35246e-e947-4f29-bec5-66cb09f8988b/"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "education",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
