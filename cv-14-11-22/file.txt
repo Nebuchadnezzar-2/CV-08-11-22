@@ -1,0 +1,72 @@
+NASIR ALI
+Student
+[ a.nasirali@outlook.com Ó 07944617240 R 3 Barrland street, Glasgow, G42 7SA  12 May 1988
+SUMMARY
+Before pursuing my career in tech I
+have been on many jobs in a customerrelated position. Where I would have
+to help them with the enquiry and
+finding solutions to any problems they
+had. Now I had on my own studied
+how to make a basic website from
+HTML, and CSS to middle level with
+more responsive features rich with
+Django and python.
+SKILLS
+WordPress
+HTML
+Linux
+Docker
+Anaconda
+Google Colab
+Google Cloud
+AWS
+GitHub
+Git
+VS Code
+CSS
+SQL
+Python
+JavaScript
+Basic
+C
+Java
+HOBBIES
+Gardening
+Running
+Hicking
+LANGUAGE SKILLS
+English ○ ○ ○ ○ ○ ○
+Urdu ○ ○ ○ ○ ○ ○
+EDUCATION
+Access Science
+University of Glasgow
+ April/2023
+Computing Science
+Glasgow Clyde College
+ November/2022
+Computing Science
+Glasgow Clyde College
+ August/2022
+EMPLOYMENT HISTORY
+Assistant
+Ali Baba’s
+ March/2015 – June/2015
+• Customer services
+Assistant
+Sense Scotland
+ December/2014 – January/2015
+• Customer services
+Assistant
+Khalid Clearance
+ May/2014 – June/2014
+• Cash handling
+CERTIFICATES
+Introduction to Git and GitHub
+GOOGLE
+ 2021
+Web Application Technology and Django
+University of Michigan
+
+Automation the Boring stuff with python
+Udemy
+
